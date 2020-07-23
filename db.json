@@ -1,4 +1,5 @@
-[
+  {
+  "bonusInfo": [
   {
     "id": 1,
     "bonusTitle": "150% Bonus up to 150$",
@@ -67,4 +68,8 @@
     "gameScreen2": "gunspinner",
     "gameLink2": "https://www.wildtornado.casino/casino-game/booming/gunspinner"
   }
-]
+  
+  
+  ]
+  }
+
