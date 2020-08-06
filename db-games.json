@@ -13,8 +13,8 @@
 
 {
     "id": 2,
-    "bonusTitle": "990% Bonus up to 880$",
-    "casinoTitle": "Super Carnadilo",
+    "gameTitle": "990% Bonus up to 880$",
+    "poweredBy": "Super Carnadilo",
     "countries": "🇬🇧🇧🇬🇦🇽🇧🇦🇨🇮🇨🇴",
     "image": "https://thecultface.com/wp-content/uploads/2020/06/creams.jpg",
     "rating": 4,
@@ -25,8 +25,8 @@
 
 {
     "id": 3,
-    "bonusTitle": "770% Bonus up to 654$",
-    "casinoTitle": "Alfa Mascfiac",
+    "gameTitle": "770% Bonus up to 654$",
+    "poweredBy": "Alfa Mascfiac",
     "countries": "🇺🇦🇺🇦",
     "image": "https://thecultface.com/wp-content/uploads/2020/06/creams.jpg",
     "rating": 5,
