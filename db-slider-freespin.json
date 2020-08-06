@@ -7,7 +7,7 @@
     "image": "perfectnodepbonus",
     "rating": 5,
     "percentage": 150,
-    "bonusMoney": 150,
+    "minDeposit": 99,
     "wage": 40,
     "freeSpins": 0,
     "bonusLink": "https://thecultface.com/wp-content/uploads/2020/06/creams.jpg"
@@ -21,7 +21,7 @@
     "image": "perfectnodepbonus",
     "rating": 4,
     "percentage": 150,
-    "bonusMoney": 150,
+    "minDeposit": 99,
     "wage": 40,
     "freeSpins": 0,
     "bonusLink": "https://www.wildtornado.casino/"
@@ -35,7 +35,7 @@
     "image": "perfectnodepbonus",
     "rating": 5,
     "percentage": 150,
-    "bonusMoney": 150,
+    "minDeposit": 99,
     "wage": 40,
     "freeSpins": 0,
     "bonusLink": "https://www.wildtornado.casino/"
