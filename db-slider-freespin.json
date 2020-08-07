@@ -9,7 +9,7 @@
     "percentage": 150,
     "minDeposit": 99,
     "wage": 40,
-    "freeSpins": 0,
+    "freeSpins": 1000,
     "bonusLink": "https://thecultface.com/wp-content/uploads/2020/06/creams.jpg"
   },
 
@@ -23,7 +23,7 @@
     "percentage": 150,
     "minDeposit": 99,
     "wage": 40,
-    "freeSpins": 0,
+    "freeSpins": 2000,
     "bonusLink": "https://www.wildtornado.casino/"
   },
 
@@ -37,7 +37,7 @@
     "percentage": 150,
     "minDeposit": 99,
     "wage": 40,
-    "freeSpins": 0,
+    "freeSpins": 5000,
     "bonusLink": "https://www.wildtornado.casino/"
   }
 ]
