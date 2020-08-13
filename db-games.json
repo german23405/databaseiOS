@@ -7,7 +7,7 @@
     "image": "https://yourcareguide.site/wp-content/uploads/2020/08/booming-circus.jpg",
     "rating": 5,
     "percentage": 150,
-    "minDeposit": 50,
+    "minDeposit": 20,
     "bonusLink": "https://yourcareguide.site/popup-page?utm_source=behappyapp&utm_medium=getBonus&utm_campaign=button"
   },
 
@@ -19,43 +19,43 @@
     "image": "https://yourcareguide.site/wp-content/uploads/2020/08/gunspinner.jpg",
     "rating": 4,
     "percentage": 150,
-    "minDeposit": 40,
+    "minDeposit": 20,
     "bonusLink": "https://thecultface.com/?utm_source=behappyapp&utm_medium=getBonus&utm_campaign=button"
   },
 
 {
     "id": 3,
-    "gameTitle": "Star Hacker Man Slot",
+    "gameTitle": "Elven Princesses",
     "poweredBy": "WildTornado Casino",
     "countries": "🇪🇺: 🇩🇪🇫🇷🇵🇱🇧🇪🇬🇧etc.",
     "image": "https://thecultface.com/wp-content/uploads/2020/06/creams.jpg",
-    "rating": 5,
+    "rating": 4,
     "percentage": 150,
-    "minDeposit": 150,
-    "bonusLink": "https://yourcareguide.site/wp-content/uploads/2020/08/booming-circus.jpg?utm_source=behappyapp&utm_medium=getBonus&utm_campaign=button"
+    "minDeposit": 20,
+    "bonusLink": "https://yourcareguide.site/wp-content/uploads/2020/08/elven-princ.jpg"
   },
   
   {
     "id": 4,
-    "gameTitle": "Star Hacker Man Slot",
+    "gameTitle": "Dragon's Element",
     "poweredBy": "WildTornado Casino",
     "countries": "🇪🇺: 🇨🇮🇩🇪🇫🇷🇵🇱🇧🇪🇬🇧etc.",
     "image": "https://thecultface.com/wp-content/uploads/2020/06/creams.jpg",
     "rating": 5,
     "percentage": 150,
-    "minDeposit": 150,
-    "bonusLink": "https://yourcareguide.site/wp-content/uploads/2020/08/booming-circus.jpg?utm_source=behappyapp&utm_medium=getBonus&utm_campaign=button"
+    "minDeposit": 20,
+    "bonusLink": "https://www.wildtornado.casino/de/casino-game/platipus/dragons-element?utm_source=behappyapp&utm_medium=getBonus&utm_campaign=button"
   },
   
   {
     "id": 5,
-    "gameTitle": "Star Hacker Man Slot",
+    "gameTitle": "Meduza: Fortuna & Glory",
     "poweredBy": "WildTornado Casino",
     "countries": "🇪🇺: 🇩🇪🇧🇪🇬🇧🇦🇹🇬🇷🇮🇹etc.",
-    "image": "https://thecultface.com/wp-content/uploads/2020/06/creams.jpg",
-    "rating": 5,
+    "image": "https://yourcareguide.site/wp-content/uploads/2020/08/meduza-fortuna.jpg",
+    "rating": 4,
     "percentage": 150,
-    "minDeposit": 150,
-    "bonusLink": "https://yourcareguide.site/wp-content/uploads/2020/08/booming-circus.jpg?utm_source=behappyapp&utm_medium=getBonus&utm_campaign=button"
+    "minDeposit": 20,
+    "bonusLink": "https://www.wildtornado.casino/de/casino-game/yggdrasil/medusa-fortune-and-glory"
   }
 ]
