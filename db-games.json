@@ -2,8 +2,8 @@
   {
     "id": 1,
     "gameTitle": "Booming Circus",
-    "poweredBy": "Wild Casino",
-    "countries": "🇧🇪🇦🇽🇨🇦🇨🇮🇪🇪🇫🇷🇩🇪🇮🇸🇰🇷🇷🇺",
+    "poweredBy": "WildTornado Casino",
+    "countries": "🇪🇺: 🇩🇪🇫🇷🇮🇹🇵🇱🇧🇪🇬🇧etc.",
     "image": "https://yourcareguide.site/wp-content/uploads/2020/08/booming-circus.jpg",
     "rating": 5,
     "percentage": 150,
@@ -14,8 +14,8 @@
 {
     "id": 2,
     "gameTitle": "Gunspinner",
-    "poweredBy": "Crazy Lucky Casino",
-    "countries": "🇬🇧🇧🇬🇦🇽🇧🇦🇨🇮🇨🇴",
+    "poweredBy": "WildTornado Casino",
+    "countries": "🇪🇺: 🇨🇮🇳🇴🇩🇪🇫🇷🇵🇱🇧🇪🇬🇧etc.",
     "image": "https://yourcareguide.site/wp-content/uploads/2020/08/gunspinner.jpg",
     "rating": 4,
     "percentage": 150,
@@ -26,8 +26,32 @@
 {
     "id": 3,
     "gameTitle": "Star Hacker Man Slot",
-    "poweredBy": "Alfa Mascfiac",
-    "countries": "🇺🇦🇺🇦",
+    "poweredBy": "WildTornado Casino",
+    "countries": "🇪🇺: 🇩🇪🇫🇷🇵🇱🇧🇪🇬🇧etc.",
+    "image": "https://thecultface.com/wp-content/uploads/2020/06/creams.jpg",
+    "rating": 5,
+    "percentage": 150,
+    "minDeposit": 150,
+    "bonusLink": "https://yourcareguide.site/wp-content/uploads/2020/08/booming-circus.jpg?utm_source=behappyapp&utm_medium=getBonus&utm_campaign=button"
+  },
+  
+  {
+    "id": 4,
+    "gameTitle": "Star Hacker Man Slot",
+    "poweredBy": "WildTornado Casino",
+    "countries": "🇪🇺: 🇨🇮🇩🇪🇫🇷🇵🇱🇧🇪🇬🇧etc.",
+    "image": "https://thecultface.com/wp-content/uploads/2020/06/creams.jpg",
+    "rating": 5,
+    "percentage": 150,
+    "minDeposit": 150,
+    "bonusLink": "https://yourcareguide.site/wp-content/uploads/2020/08/booming-circus.jpg?utm_source=behappyapp&utm_medium=getBonus&utm_campaign=button"
+  },
+  
+  {
+    "id": 5,
+    "gameTitle": "Star Hacker Man Slot",
+    "poweredBy": "WildTornado Casino",
+    "countries": "🇪🇺: 🇩🇪🇧🇪🇬🇧🇦🇹🇬🇷🇮🇹etc.",
     "image": "https://thecultface.com/wp-content/uploads/2020/06/creams.jpg",
     "rating": 5,
     "percentage": 150,
