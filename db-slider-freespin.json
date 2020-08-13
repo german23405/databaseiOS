@@ -1,43 +1,40 @@
 [
   {
     "id": 1,
-    "bonusTitle": "150% Bonus up to 150$",
-    "casinoTitle": "FREE LAND Casino",
-    "countries": "🇰🇿🇰🇿🇲🇴🇱🇧🇰🇪",
+    "bonusTitle": "50% up to 500€ + 25 Free spins",
+    "casinoTitle": "Playzee Casino",
+    "countries": "🇪🇺: 🇩🇪🇫🇷🇮🇹🇬🇧🇨🇭etc.",
     "image": "perfectnodepbonus",
     "rating": 5,
-    "percentage": 150,
-    "minDeposit": 99,
-    "wage": 40,
-    "freeSpins": 1000,
-    "bonusLink": "https://thecultface.com/wp-content/uploads/2020/06/creams.jpg"
+    "minDeposit": 20,
+    "wage": 35,
+    "freeSpins": 25,
+    "bonusLink": "https://www.playzee.com/index.php"
   },
 
 {
     "id": 2,
-    "bonusTitle": "990% Bonus up to 880$",
-    "casinoTitle": "Cash Geeting Casino",
-    "countries": "🇬🇧🇧🇬🇦🇽🇧🇦🇨🇮🇨🇴",
+    "bonusTitle": "100% up to 300€ + 50 Free spins",
+    "casinoTitle": "Unibet Casino",
+    "countries": "🇪🇺: 🇩🇪🇫🇷🇮🇹🇬🇧🇨🇭etc.",
     "image": "perfectnodepbonus",
     "rating": 4,
-    "percentage": 150,
-    "minDeposit": 99,
-    "wage": 40,
-    "freeSpins": 2000,
-    "bonusLink": "https://www.wildtornado.casino/"
+    "minDeposit": 10,
+    "wage": 25,
+    "freeSpins": 50,
+    "bonusLink": "https://welcome.unibet.de/de/casino/welcome/index.html"
   },
 
 {
     "id": 3,
-    "bonusTitle": "770% Bonus up to 654$",
-    "casinoTitle": "Trololo Casino",
-    "countries": "🇺🇦🇺🇦",
+    "bonusTitle": "100% up to 200€ + 100 Free spins",
+    "casinoTitle": "Jambo Casino",
+    "countries": "🇪🇺: 🇩🇪🇫🇷🇮🇹🇬🇧🇨🇭etc.",
     "image": "perfectnodepbonus",
     "rating": 5,
-    "percentage": 150,
-    "minDeposit": 99,
-    "wage": 40,
-    "freeSpins": 5000,
-    "bonusLink": "https://www.wildtornado.casino/"
+    "minDeposit": 10,
+    "wage": 35,
+    "freeSpins": 100,
+    "bonusLink": "https://www.jambocasino.com/"
   }
 ]
