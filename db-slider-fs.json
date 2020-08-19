@@ -2,39 +2,39 @@
   {
     "id": 1,
     "bonusTitle": "50% up to 500€ + 25 Free spins",
-    "casinoTitle": "Playzee Casino",
+    "brandTitle": "Playzee Casino",
     "countries": "🇪🇺🇩🇪🇫🇷🇮🇹🇬🇧🇨🇭etc.",
     "image": "perfectnodepbonus",
     "rating": 5,
-    "minDeposit": 20,
+    "minVklad": 20,
     "wage": 35,
-    "freeSpins": 25,
+    "qtyFS": 25,
     "bonusLink": "https://www.playzee.com/index.php"
   },
 
 {
     "id": 2,
     "bonusTitle": "100% up to 300€ + 50 Free spins",
-    "casinoTitle": "Unibet Casino",
+    "brandTitle": "Unibet Casino",
     "countries": "🇪🇺🇩🇪🇫🇷🇮🇹🇬🇧🇨🇭etc.",
     "image": "perfectnodepbonus",
     "rating": 4,
-    "minDeposit": 10,
+    "minVklad": 10,
     "wage": 25,
-    "freeSpins": 50,
+    "qtyFS": 50,
     "bonusLink": "https://welcome.unibet.de/de/casino/welcome/index.html"
   },
 
 {
     "id": 3,
     "bonusTitle": "100% up to 200€ + 100 Free spins",
-    "casinoTitle": "Jambo Casino",
+    "brandTitle": "Jambo Casino",
     "countries": "🇪🇺🇩🇪🇫🇷🇮🇹🇬🇧🇨🇭etc.",
     "image": "perfectnodepbonus",
     "rating": 5,
-    "minDeposit": 10,
+    "minVklad": 10,
     "wage": 35,
-    "freeSpins": 100,
+    "qtyFS": 100,
     "bonusLink": "https://www.jambocasino.com/"
   }
 ]
