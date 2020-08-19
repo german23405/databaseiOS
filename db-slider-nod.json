@@ -2,39 +2,39 @@
   {
     "id": 1,
     "bonusTitle": "10€ No Deposit Bonus",
-    "casinoTitle": "Casino Venetian",
+    "brandTitle": "Casino Venetian",
     "countries": "🇪🇺🇩🇪🇫🇷🇮🇹🇵🇱🇧🇪🇬🇧 etc.",
     "image": "perfectdepbonus",
     "rating": 5,
-    "minDeposit": 0,
+    "minVklad": 0,
     "wage": 0,
-    "freeSpins": 0,
+    "qtyFS": 0,
     "bonusLink": "https://www.casinovenetian.info/en/10freeall/"
   },
 
 {
     "id": 2,
     "bonusTitle": "40€ No Deposit Bonus",
-    "casinoTitle": "Slots Empire Casino",
+    "brandTitle": "Slots Empire Casino",
     "countries": "🇪🇺🇬🇷🇦🇹🇮🇹🇵🇱🇧🇪🇬🇧 etc.",
     "image": "perfectdepbonus",
     "rating": 5,
-    "minDeposit": 0,
+    "minVklad": 0,
     "wage": 50,
-    "freeSpins": 0,
+    "qtyFS": 0,
     "bonusLink": "https://slotsempirebonuses.com/landing/gratis40"
   },
 
 {
     "id": 2,
     "bonusTitle": "25€ No Deposit Bonus",
-    "casinoTitle": "Win a Day Casino",
+    "brandTitle": "Win a Day Casino",
     "countries": "🇪🇺🇸🇪🇬🇧🇮🇹🇨🇮🇳🇱🇲🇨 etc.",
     "image": "perfectdepbonus",
     "rating": 4,
-    "minDeposit": 0,
+    "minVklad": 0,
     "wage": 25,
-    "freeSpins": 0,
+    "qtyFS": 0,
     "bonusLink": "https://www.winadaycasino.eu/en/casinoguru"
   }
 ]
