@@ -2,39 +2,39 @@
   {
     "id": 1,
     "bonusTitle": "150% up to 1000€ + 100 Free spins",
-    "casinoTitle": "Gate 777 Casino",
+    "brandTitle": "Gate 777 Casino",
     "countries": "🇪🇺🇩🇪🇫🇷🇮🇹🇬🇧🇨🇭 etc.",
     "image": "perfectfsbonus",
     "rating": 5,
-    "minDeposit": 20,
+    "minVklad": 20,
     "wage": 35,
-    "freeSpins": 100,
+    "qtyFS": 100,
     "bonusLink": "https://promotions.gate777.com/Casino2019new/en"
   },
 
 {
     "id": 2,
     "bonusTitle": "50% up to 200€",
-    "casinoTitle": "Luckland Casino",
+    "brandTitle": "Luckland Casino",
     "countries": "🇪🇺🇷🇴🇬🇷🇦🇹🇫🇷🇮🇹🇬🇧🇨🇭etc.",
     "image": "perfectfsbonus",
     "rating": 4,
-    "minDeposit": 20,
+    "minVklad": 20,
     "wage": 35,
-    "freeSpins": 0,
+    "qtyFS": 0,
     "bonusLink": "https://www.luckland.com/"
   },
 
 {
     "id": 3,
     "bonusTitle": "100% up to 200€",
-    "casinoTitle": "SlotsMillion Casino",
+    "brandTitle": "SlotsMillion Casino",
     "countries": "🇪🇺🇸🇪🇵🇱🇳🇴🇭🇷🇦🇹 etc.",
     "image": "perfectfsbonus",
     "rating": 5,
-    "minDeposit": 20,
+    "minVklad": 20,
     "wage": 40,
-    "freeSpins": 0,
+    "qtyFS": 0,
     "bonusLink": "https://www.slotsmillion.com/en/"
   }
 ]
