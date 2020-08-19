@@ -7,7 +7,7 @@
     "image": "https://yourcareguide.site/wp-content/uploads/2020/08/booming-circus.jpg",
     "rating": 5,
     "percentage": 150,
-    "minDeposit": 20,
+    "minVklad": 20,
     "bonusLink": "https://www.wildtornado.casino/de/casino-game/booming/booming-circus"
   },
 
@@ -19,7 +19,7 @@
     "image": "https://yourcareguide.site/wp-content/uploads/2020/08/gunspinner.jpg", 
     "rating": 4,
     "percentage": 150,
-    "minDeposit": 20,
+    "minVklad": 20,
     "bonusLink": "https://www.wildtornado.casino/de/casino-game/booming/gunspinner"
   },
 
@@ -31,7 +31,7 @@
     "image": "https://yourcareguide.site/wp-content/uploads/2020/08/elven-princ.jpg",
     "rating": 4,
     "percentage": 150,
-    "minDeposit": 20,
+    "minVklad": 20,
     "bonusLink": "https://www.wildtornado.casino/de/casino-game/evoplay/elven-princesses"
   },
   
@@ -43,7 +43,7 @@
     "image": "https://yourcareguide.site/wp-content/uploads/2020/08/dragon.jpg",
     "rating": 5,
     "percentage": 150,
-    "minDeposit": 20,
+    "minVklad": 20,
     "bonusLink": "https://www.wildtornado.casino/de/casino-game/platipus/dragons-element?utm_source=behappyapp&utm_medium=getBonus&utm_campaign=button"
   },
   
@@ -55,7 +55,7 @@
     "image": "https://yourcareguide.site/wp-content/uploads/2020/08/meduza-fortuna.jpg",
     "rating": 4,
     "percentage": 150,
-    "minDeposit": 20,
+    "minVklad": 20,
     "bonusLink": "https://www.wildtornado.casino/de/casino-game/yggdrasil/medusa-fortune-and-glory"
   }
 ]
