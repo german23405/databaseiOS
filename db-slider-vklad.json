@@ -1,40 +1,40 @@
 [
   {
     "id": 1,
-    "bonusTitle": "1000€ + 100 FS",
-    "brandTitle": "Another Hot Bonus",
+    "bonusTitle": "Promo Code: FREESHIP",
+    "brandTitle": "SEPHORA",
     "countries": "🇪🇺🇩🇪🇫🇷🇮🇹🇬🇧🇨🇭 etc.",
     "image": "perfectfsbonus",
     "rating": 5,
-    "minVklad": 20,
-    "wage": 35,
+    "minVklad": 0,
+    "wage": 0,
     "qtyFS": 0,
-    "bonusLink": "https://promotions.gate777.com/Casino2019new/en"
+    "bonusLink": "https://www.sephora.com/beauty/beauty-offers#freeship"
   },
 
 {
     "id": 2,
-    "bonusTitle": "50% up to 200€",
-    "brandTitle": "Luckland Casino",
+    "bonusTitle": "Up to 25% Off",
+    "brandTitle": "Amazon",
     "countries": "🇪🇺🇷🇴🇬🇷🇦🇹🇫🇷🇮🇹🇬🇧🇨🇭etc.",
     "image": "perfectfsbonus",
     "rating": 4,
-    "minVklad": 20,
-    "wage": 35,
+    "minVklad": 0,
+    "wage": 0,
     "qtyFS": 0,
-    "bonusLink": "https://www.luckland.com/"
+    "bonusLink": "https://www.amazon.com/b/ref=as_li_ss_tl"
   },
 
 {
     "id": 3,
-    "bonusTitle": "100% up to 200€",
-    "brandTitle": "SlotsMillion Casino",
+    "bonusTitle": "20% Off Your First Purchase",
+    "brandTitle": "Stop Aging Now",
     "countries": "🇪🇺🇸🇪🇵🇱🇳🇴🇭🇷🇦🇹 etc.",
     "image": "perfectfsbonus",
     "rating": 5,
-    "minVklad": 20,
-    "wage": 40,
+    "minVklad": 0,
+    "wage": 0,
     "qtyFS": 0,
-    "bonusLink": "https://www.slotsmillion.com/en/"
+    "bonusLink": "https://www.stopagingnow.com/"
   }
 ]
