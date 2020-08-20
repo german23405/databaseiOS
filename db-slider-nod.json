@@ -1,40 +1,40 @@
 [
   {
     "id": 1,
-    "bonusTitle": "10€ No Deposit Bonus",
-    "brandTitle": "Casino Venetian",
+    "bonusTitle": "Podcast app",
+    "brandTitle": "Overcast",
     "countries": "🇪🇺🇩🇪🇫🇷🇮🇹🇵🇱🇧🇪🇬🇧 etc.",
     "image": "perfectdepbonus",
     "rating": 5,
     "minVklad": 0,
     "wage": 0,
     "qtyFS": 0,
-    "bonusLink": "https://www.casinovenetian.info/en/10freeall/"
+    "bonusLink": "https://apps.apple.com/app/overcast-podcast-player/id888422857?mt=8"
   },
 
 {
     "id": 2,
-    "bonusTitle": "40€ No Deposit Bonus",
-    "brandTitle": "Slots Empire Casino",
+    "bonusTitle": "Transcription app",
+    "brandTitle": "Otter Voice Notes",
     "countries": "🇪🇺🇬🇷🇦🇹🇮🇹🇵🇱🇧🇪🇬🇧 etc.",
     "image": "perfectdepbonus",
     "rating": 5,
     "minVklad": 0,
-    "wage": 50,
+    "wage": 0,
     "qtyFS": 0,
-    "bonusLink": "https://slotsempirebonuses.com/landing/gratis40"
+    "bonusLink": "https://apps.apple.com/us/app/otter-voice-notes/id1276437113?mt=8"
   },
 
 {
     "id": 2,
-    "bonusTitle": "25€ No Deposit Bonus",
-    "brandTitle": "Win a Day Casino",
+    "bonusTitle": "Online TV",
+    "brandTitle": "JustWatch",
     "countries": "🇪🇺🇸🇪🇬🇧🇮🇹🇨🇮🇳🇱🇲🇨 etc.",
     "image": "perfectdepbonus",
     "rating": 4,
     "minVklad": 0,
-    "wage": 25,
+    "wage": 0,
     "qtyFS": 0,
-    "bonusLink": "https://www.winadaycasino.eu/en/casinoguru"
+    "bonusLink": "https://apps.apple.com/us/app/justwatch-movies-tv-shows/id979227482?mt=8"
   }
 ]
