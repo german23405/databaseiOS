@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "bonusTitle": "150% up to 1000€ + 100 Free spins",
-    "brandTitle": "Gate 777 Casino",
+    "bonusTitle": "1000€ + 100 FS",
+    "brandTitle": "Another Hot Bonus",
     "countries": "🇪🇺🇩🇪🇫🇷🇮🇹🇬🇧🇨🇭 etc.",
     "image": "perfectfsbonus",
     "rating": 5,
     "minVklad": 20,
     "wage": 35,
-    "qtyFS": 100,
+    "qtyFS": 0,
     "bonusLink": "https://promotions.gate777.com/Casino2019new/en"
   },
 
