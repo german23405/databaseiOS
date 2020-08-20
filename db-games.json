@@ -31,7 +31,7 @@
     "image": "https://yourcareguide.site/wp-content/uploads/2020/08/War-Tortoise-2.jpg",
     "rating": 4,
     "percentage": 150,
-    "minVklad": 20,
+    "minVklad": 0,
     "bonusLink": "https://apps.apple.com/us/app/war-tortoise-2/id1488000116"
   },
   
@@ -43,7 +43,7 @@
     "image": "https://yourcareguide.site/wp-content/uploads/2020/08/Angry-Birds-2.jpg",
     "rating": 5,
     "percentage": 150,
-    "minVklad": 20,
+    "minVklad": 0,
     "bonusLink": "https://apps.apple.com/us/app/angry-birds-2/id880047117"
   },
   
@@ -55,7 +55,7 @@
     "image": "https://yourcareguide.site/wp-content/uploads/2020/08/Undead-Horde.jpg",
     "rating": 4,
     "percentage": 150,
-    "minVklad": 20,
+    "minVklad": 0,
     "bonusLink": "https://apps.apple.com/us/app/undead-horde/id1388267373"
   }
 ]
