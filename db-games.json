@@ -1,61 +1,61 @@
 [
   {
     "id": 1,
-    "gameTitle": "Booming Circus",
-    "poweredBy": "WildTornado Casino",
+    "gameTitle": "F1 Manager",
+    "poweredBy": "Hutch Games Ltd",
     "countries": "🇪🇺🇩🇪🇫🇷🇮🇹🇵🇱🇧🇪🇬🇧etc.",
-    "image": "https://yourcareguide.site/wp-content/uploads/2020/08/booming-circus.jpg",
+    "image": "https://yourcareguide.site/wp-content/uploads/2020/08/F1-Manager.jpg",
     "rating": 5,
     "percentage": 150,
-    "minVklad": 20,
-    "bonusLink": "https://www.wildtornado.casino/de/casino-game/booming/booming-circus"
+    "minVklad": 0,
+    "bonusLink": "https://apps.apple.com/us/app/f1-manager/id1434561536"
   },
 
 {
     "id": 2,
-    "gameTitle": "Gunspinner Shot",
-    "poweredBy": "WildTornado Website",
+    "gameTitle": "Sonic Dash 2",
+    "poweredBy": "SEGA",
     "countries": "🇪🇺🇨🇮🇳🇴🇩🇪🇫🇷🇵🇱🇧🇪🇬🇧etc.",
-    "image": "https://yourcareguide.site/wp-content/uploads/2020/08/gunspinner.jpg", 
+    "image": "https://yourcareguide.site/wp-content/uploads/2020/08/sonic2.jpg", 
     "rating": 4,
     "percentage": 150,
     "minVklad": 0,
-    "bonusLink": "https://www.wildtornado.casino/de/casino-game/booming/gunspinner"
+    "bonusLink": "https://apps.apple.com/us/app/sonic-dash-2-sonic-boom/id968744559"
   },
 
 {
     "id": 3,
-    "gameTitle": "Elven Princesses",
-    "poweredBy": "WildTornado Casino",
+    "gameTitle": "War Tortoise 2",
+    "poweredBy": "Foursaken Media",
     "countries": "🇪🇺🇩🇪🇫🇷🇵🇱🇧🇪🇬🇧etc.",
-    "image": "https://yourcareguide.site/wp-content/uploads/2020/08/elven-princ.jpg",
+    "image": "https://yourcareguide.site/wp-content/uploads/2020/08/War-Tortoise-2.jpg",
     "rating": 4,
     "percentage": 150,
     "minVklad": 20,
-    "bonusLink": "https://www.wildtornado.casino/de/casino-game/evoplay/elven-princesses"
+    "bonusLink": "https://apps.apple.com/us/app/war-tortoise-2/id1488000116"
   },
   
   {
     "id": 4,
-    "gameTitle": "Dragon's Element",
-    "poweredBy": "WildTornado Casino",
+    "gameTitle": "Angry Birds 2",
+    "poweredBy": "Rovio Entertainment Oyj",
     "countries": "🇪🇺🇨🇮🇩🇪🇫🇷🇵🇱🇧🇪🇬🇧etc.",
-    "image": "https://yourcareguide.site/wp-content/uploads/2020/08/dragon.jpg",
+    "image": "https://yourcareguide.site/wp-content/uploads/2020/08/Angry-Birds-2.jpg",
     "rating": 5,
     "percentage": 150,
     "minVklad": 20,
-    "bonusLink": "https://www.wildtornado.casino/de/casino-game/platipus/dragons-element?utm_source=behappyapp&utm_medium=getBonus&utm_campaign=button"
+    "bonusLink": "https://apps.apple.com/us/app/angry-birds-2/id880047117"
   },
   
   {
     "id": 5,
-    "gameTitle": "Meduza: Fortuna & Glory",
-    "poweredBy": "WildTornado Casino",
+    "gameTitle": "Undead Horde",
+    "poweredBy": "10tons Ltd",
     "countries": "🇪🇺🇩🇪🇧🇪🇬🇧🇦🇹🇬🇷🇮🇹etc.",
-    "image": "https://yourcareguide.site/wp-content/uploads/2020/08/meduza-fortuna.jpg",
+    "image": "https://yourcareguide.site/wp-content/uploads/2020/08/Undead-Horde.jpg",
     "rating": 4,
     "percentage": 150,
     "minVklad": 20,
-    "bonusLink": "https://www.wildtornado.casino/de/casino-game/yggdrasil/medusa-fortune-and-glory"
+    "bonusLink": "https://apps.apple.com/us/app/undead-horde/id1388267373"
   }
 ]
