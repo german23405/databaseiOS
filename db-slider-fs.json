@@ -1,40 +1,40 @@
 [
   {
     "id": 1,
-    "bonusTitle": "50% up to 500€ + 25 Free spins",
-    "brandTitle": "Playzee Casino",
+    "bonusTitle": "USB Charger Quick Charge for 0,01€",
+    "brandTitle": "Aliexpress",
     "countries": "🇪🇺🇩🇪🇫🇷🇮🇹🇬🇧🇨🇭etc.",
     "image": "perfectnodepbonus",
     "rating": 5,
-    "minVklad": 20,
-    "wage": 35,
-    "qtyFS": 25,
-    "bonusLink": "https://www.playzee.com/index.php"
+    "minVklad": 55555,
+    "wage": 0,
+    "qtyFS": 0,
+    "bonusLink": "https://www.aliexpress.com/item/4000298379442.html"
   },
 
 {
     "id": 2,
-    "bonusTitle": "100% up to 300€ + 50 Free spins",
-    "brandTitle": "Unibet Casino",
+    "bonusTitle": "1Pair No tie Shoelaces for 1,55€ ",
+    "brandTitle": "Aliexpress",
     "countries": "🇪🇺🇩🇪🇫🇷🇮🇹🇬🇧🇨🇭etc.",
     "image": "perfectnodepbonus",
     "rating": 4,
-    "minVklad": 10,
-    "wage": 25,
-    "qtyFS": 50,
-    "bonusLink": "https://welcome.unibet.de/de/casino/welcome/index.html"
+    "minVklad": 55555,
+    "wage": 0,
+    "qtyFS": 0,
+    "bonusLink": "https://www.aliexpress.com/item/33012206693.html"
   },
 
 {
     "id": 3,
-    "bonusTitle": "100% up to 200€ + 100 Free spins",
-    "brandTitle": "Jambo Casino",
+    "bonusTitle": "Men Aluminum Polarized Sunglasses for 8,57€ ",
+    "brandTitle": "Aliexpress",
     "countries": "🇪🇺🇩🇪🇫🇷🇮🇹🇬🇧🇨🇭etc.",
     "image": "perfectnodepbonus",
     "rating": 5,
-    "minVklad": 10,
-    "wage": 35,
-    "qtyFS": 100,
-    "bonusLink": "https://www.jambocasino.com/"
+    "minVklad": 55555,
+    "wage": 0,
+    "qtyFS": 0,
+    "bonusLink": "https://www.aliexpress.com/item/32793775351.html"
   }
 ]
