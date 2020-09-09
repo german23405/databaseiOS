@@ -1,61 +1,34 @@
 [
   {
     "id": 1,
-    "gameTitle": "F1 Manager",
-    "poweredBy": "Hutch Games Ltd",
+    "gameTitle": "Lucky Joker",
+    "poweredBy": "Amanet",
     "countries": "🇪🇺🇩🇪🇫🇷🇮🇹🇵🇱🇧🇪🇬🇧etc.",
-    "image": "https://yourcareguide.site/wp-content/uploads/2020/08/F1-Manager.jpg",
+    "image": "https://yourcareguide.site/wp-content/uploads/2020/09/Lucky-Joker-100.jpg",
     "rating": 5,
-    "percentage": 150,
-    "minVklad": 55555,
-    "bonusLink": "https://apps.apple.com/us/app/f1-manager/id1434561536"
+    "minVklad": 20,
+    "bonusLink": "https://track.way2pc.com/click?pid=2&offer_id=1&l=1592903671"
   },
 
 {
     "id": 2,
-    "gameTitle": "Sonic Dash 2",
-    "poweredBy": "SEGA",
+    "gameTitle": "All Lucky Clovers",
+    "poweredBy": "BGaming",
     "countries": "🇪🇺🇨🇮🇳🇴🇩🇪🇫🇷🇵🇱🇧🇪🇬🇧etc.",
-    "image": "https://yourcareguide.site/wp-content/uploads/2020/08/sonic2.jpg", 
+    "image": "https://yourcareguide.site/wp-content/uploads/2020/09/All-lucky-clovers.jpg", 
     "rating": 4,
-    "percentage": 150,
-    "minVklad": 55555,
-    "bonusLink": "https://apps.apple.com/us/app/sonic-dash-2-sonic-boom/id968744559"
+    "minVklad": 20,
+    "bonusLink": "https://track.way2pc.com/click?pid=2&offer_id=1&l=1592903671"
   },
 
 {
     "id": 3,
-    "gameTitle": "War Tortoise 2",
-    "poweredBy": "Foursaken Media",
+    "gameTitle": "Crazy Monkey",
+    "poweredBy": "Amanet",
     "countries": "🇪🇺🇩🇪🇫🇷🇵🇱🇧🇪🇬🇧etc.",
-    "image": "https://yourcareguide.site/wp-content/uploads/2020/08/War-Tortoise-2.jpg",
+    "image": "https://yourcareguide.site/wp-content/uploads/2020/09/crazy-monkey.jpg",
     "rating": 4,
-    "percentage": 150,
-    "minVklad": 55555,
-    "bonusLink": "https://apps.apple.com/us/app/war-tortoise-2/id1488000116"
-  },
-  
-  {
-    "id": 4,
-    "gameTitle": "Angry Birds 2",
-    "poweredBy": "Rovio Entertainment Oyj",
-    "countries": "🇪🇺🇨🇮🇩🇪🇫🇷🇵🇱🇧🇪🇬🇧etc.",
-    "image": "https://yourcareguide.site/wp-content/uploads/2020/08/Angry-Birds-2.jpg",
-    "rating": 5,
-    "percentage": 150,
-    "minVklad": 55555,
-    "bonusLink": "https://apps.apple.com/us/app/angry-birds-2/id880047117"
-  },
-  
-  {
-    "id": 5,
-    "gameTitle": "Undead Horde",
-    "poweredBy": "10tons Ltd",
-    "countries": "🇪🇺🇩🇪🇧🇪🇬🇧🇦🇹🇬🇷🇮🇹etc.",
-    "image": "https://yourcareguide.site/wp-content/uploads/2020/08/Undead-Horde.jpg",
-    "rating": 4,
-    "percentage": 150,
-    "minVklad": 55555,
-    "bonusLink": "https://apps.apple.com/us/app/undead-horde/id1388267373"
+    "minVklad": 20,
+    "bonusLink": "https://track.way2pc.com/click?pid=2&offer_id=1&l=1592903671"
   }
 ]
