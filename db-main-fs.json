@@ -9,7 +9,7 @@
     "minVklad": 55555,
     "wage": 0,
     "qtyFS": 0,
-    "bonusLink": "https://ltoprofit.site/app/?camp={{campaign.name}}&adset={{adset.name}}&ban={{ad.name}}&site_source_name={{site_source_name}}&s4={{pixel.id}}",
+    "bonusLink": "https://ltoprofit.site/app/?camp=campaign.name1&adset=adset.name1&ban=ad.name1&site_source_name=site_source_name1&s4=pixel.id1",
     "promocode": "3bday",
     "firstParagraph": "AliExpress is an online retail service based in China that is owned by the Alibaba Group. Launched in 2010, it is made up of small businesses in China and other locations, such as Singapore, that offer products to international online buyers.",
     "screenBrand": "https://yourcareguide.site/wp-content/uploads/2020/08/aliexpress.jpg",
