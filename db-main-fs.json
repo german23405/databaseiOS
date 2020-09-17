@@ -1,27 +1,31 @@
 [
   {
-    "id": 1,
-    "bonusTitle": "Up to 100% Bonus",
+   "id": 1,
+    "bonusTitle": "100% Bonus + 250 Free Spins",
     "brandTitle": "Pin-Up Casino",
-    "countries": "🇪🇺🇩🇪🇫🇷🇮🇹🇬🇧🇨🇭etc.",
-    "image": "perfectfsbonus",
+    "countries": "🇪🇺🇩🇪🇫🇷🇮🇹🇵🇱🇧🇪🇬🇧etc.",
+    "image": "https://yourcareguide.site/wp-content/uploads/2020/09/logo2.jpg",
     "rating": 5,
     "minVklad": 20,
     "wage": 50,
     "qtyFS": 250,
-    "bonusLink": "https://lto-profit.site/verlaine/?rht2oc6q&camp=campaign.name&adset=adset.name1&ban=ad.name1&placement=placement1&site_source_name=site_source_name1&s4=pixel_id1"
+    "bonusLink": "https://lto-profit.site/verlaine/?rht2oc6q&camp=campaign.name&adset=adset.name1&ban=ad.name1&placement=placement1&site_source_name=site_source_name1&s4=pixel_id1",
+    "promocode": "0",
+    "gameName1": "0",
   },
 
 {
     "id": 2,
-    "bonusTitle": "250 Free Spins",
+    "bonusTitle": "CashBack Bonus",
     "brandTitle": "Pin-Up Casino",
     "countries": "🇪🇺🇩🇪🇫🇷🇮🇹🇬🇧🇨🇭etc.",
-    "image": "perfectfsbonus",
-    "rating": 4,
+    "image": "https://yourcareguide.site/wp-content/uploads/2020/09/logo1.jpg",
+    "rating": 5,
     "minVklad": 20,
     "wage": 50,
     "qtyFS": 250,
-    "bonusLink": "https://lto-profit.site/verlaine/?rht2oc6q&camp=campaign.name&adset=adset.name1&ban=ad.name1&placement=placement1&site_source_name=site_source_name1&s4=pixel_id1"
+    "bonusLink": "https://lto-profit.site/verlaine/?rht2oc6q&camp=campaign.name&adset=adset.name1&ban=ad.name1&placement=placement1&site_source_name=site_source_name1&s4=pixel_id1",
+    "promocode": "0",
+    "gameName1": "0",
   }
 ]
