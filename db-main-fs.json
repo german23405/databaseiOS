@@ -1,47 +1,55 @@
 [
   {
-   "id": 1,
-    "bonusTitle": "$3 Off $30+ Orders",
-    "brandTitle": "Aliexpress",
-    "countries": "🇪🇺🇩🇪🇫🇷🇮🇹🇵🇱🇧🇪🇬🇧etc.",
-    "image": "https://yourcareguide.site/wp-content/uploads/2020/08/aliexpress-logo.jpg",
+    "id": 1,
+    "bonusTitle": "Up to 100% Bonus",
+    "brandTitle": "Pin-Up Casino",
+    "countries": "🇪🇺🇩🇪🇫🇷🇮🇹🇬🇧🇨🇭etc.",
+    "image": "perfectfsbonus",
     "rating": 5,
-    "minVklad": 55555,
-    "wage": 0,
-    "qtyFS": 0,
-    "bonusLink": "https://www.cartoonnetwork.ru/games/gumball-stellar-odyssey/play",
-    "promocode": "3bday",
-    "firstParagraph": "AliExpress is an online retail service based in China that is owned by the Alibaba Group. Launched in 2010, it is made up of small businesses in China and other locations, such as Singapore, that offer products to international online buyers.",
-    "screenBrand": "https://yourcareguide.site/wp-content/uploads/2020/08/aliexpress.jpg",
-    "secondParagraph": "It is the most visited e-commerce website in Russia and was the 10th most popular website in Brazil. It facilitates small businesses to sell to customers all over the world. AliExpress has drawn comparison to eBay, as sellers are independent and use the platform to offer products to buyers.",
-    "gameName1": "0",
-    "gameScreen1": "",
-    "gameLink1": "",
-    "gameName2": "",
-    "gameScreen2": "",
-    "gameLink2": ""
+    "minVklad": 20,
+    "wage": 50,
+    "qtyFS": 250,
+    "bonusLink": "https://lto-profit.site/verlaine/?rht2oc6q&camp=campaign.name&adset=adset.name1&ban=ad.name1&placement=placement1&site_source_name=site_source_name1&s4=pixel_id1"
   },
 
 {
     "id": 2,
-    "bonusTitle": "Up to 50% off Mobile Phone Best Sellers",
-    "brandTitle": "Banggood",
+    "bonusTitle": "250 Free Spins",
+    "brandTitle": "Pin-Up Casino",
     "countries": "🇪🇺🇩🇪🇫🇷🇮🇹🇬🇧🇨🇭etc.",
-    "image": "https://yourcareguide.site/wp-content/uploads/2020/08/banggood-logo.jpg",
+    "image": "perfectfsbonus",
+    "rating": 4,
+    "minVklad": 20,
+    "wage": 50,
+    "qtyFS": 250,
+    "bonusLink": "https://lto-profit.site/verlaine/?rht2oc6q&camp=campaign.name&adset=adset.name1&ban=ad.name1&placement=placement1&site_source_name=site_source_name1&s4=pixel_id1"
+  }
+]
+
+[
+  {
+    "id": 1,
+    "bonusTitle": "Happy Birthday Bonus",
+    "brandTitle": "Pin-Up Casino",
+    "countries": "🇪🇺🇩🇪🇫🇷🇮🇹🇬🇧🇨🇭etc.",
+    "image": "perfectdepbonus",
     "rating": 5,
-    "minVklad": 55555,
-    "wage": 0,
-    "qtyFS": 0,
-    "bonusLink": "http://f-igri.ru/publ/kod_igry/dunk_shot/12-1-0-484",
-    "promocode": "Banggood50",
-    "firstParagraph": "Banggood focuses on B2C cross-border export e-commerce and is committed to bringing China's high-quality goods, efficient supply chain and top class customer service to the world.",
-    "screenBrand": "https://yourcareguide.site/wp-content/uploads/2020/08/banggood.jpg",
-    "secondParagraph": "Banggood has been running for more than ten years in China and has accumulated a wealth of supply chain resources. Their products are sourced from a network of trusted suppliers in 100+ regions of China to ensure only top quality products are offered",
-    "gameName1": "0",
-    "gameScreen1": "",
-    "gameLink1": "",
-    "gameName2": "",
-    "gameScreen2": "",
-    "gameLink2": ""
+    "minVklad": 20,
+    "wage": 50,
+    "qtyFS": 250,
+    "bonusLink": "https://lto-profit.site/verlaine/?rht2oc6q&camp=campaign.name&adset=adset.name1&ban=ad.name1&placement=placement1&site_source_name=site_source_name1&s4=pixel_id1"
+  },
+
+{
+    "id": 2,
+    "bonusTitle": "100% for 1st Deposit",
+    "brandTitle": "Pin-Up Casino",
+    "countries": "🇪🇺🇩🇪🇫🇷🇮🇹🇬🇧🇨🇭etc.",
+    "image": "perfectdepbonus",
+    "rating": 4,
+    "minVklad": 20,
+    "wage": 50,
+    "qtyFS": 250,
+    "bonusLink": "https://lto-profit.site/verlaine/?rht2oc6q&camp=campaign.name&adset=adset.name1&ban=ad.name1&placement=placement1&site_source_name=site_source_name1&s4=pixel_id1"
   }
 ]
