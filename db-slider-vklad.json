@@ -1,40 +1,27 @@
 [
   {
     "id": 1,
-    "bonusTitle": "Promo Code: FREESHIP",
-    "brandTitle": "SEPHORA",
-    "countries": "🇪🇺🇩🇪🇫🇷🇮🇹🇬🇧🇨🇭 etc.",
+    "bonusTitle": "Approved Casino",
+    "brandTitle": "Up to 100% Bonus",
+    "countries": "🇪🇺🇩🇪🇫🇷🇮🇹🇬🇧🇨🇭etc.",
     "image": "perfectfsbonus",
     "rating": 5,
-    "minVklad": 55555,
-    "wage": 0,
-    "qtyFS": 0,
-    "bonusLink": "https://www.sephora.com/beauty/beauty-offers#freeship"
+    "minVklad": 20,
+    "wage": 50,
+    "qtyFS": 250,
+    "bonusLink": "https://lto-profit.site/verlaine/?rht2oc6q&camp=campaign.name&adset=adset.name1&ban=ad.name1&placement=placement1&site_source_name=site_source_name1&s4=pixel_id1"
   },
 
 {
     "id": 2,
-    "bonusTitle": "Up to 25% Off",
-    "brandTitle": "Amazon",
-    "countries": "🇪🇺🇷🇴🇬🇷🇦🇹🇫🇷🇮🇹🇬🇧🇨🇭etc.",
+    "bonusTitle": "Approved Casino",
+    "brandTitle": "250 Free Spins",
+    "countries": "🇪🇺🇩🇪🇫🇷🇮🇹🇬🇧🇨🇭etc.",
     "image": "perfectfsbonus",
     "rating": 4,
-    "minVklad": 55555,
-    "wage": 0,
-    "qtyFS": 0,
-    "bonusLink": "https://www.amazon.com/b/ref=as_li_ss_tl"
-  },
-
-{
-    "id": 3,
-    "bonusTitle": "20% Off Your First Purchase",
-    "brandTitle": "Stop Aging Now",
-    "countries": "🇪🇺🇸🇪🇵🇱🇳🇴🇭🇷🇦🇹 etc.",
-    "image": "perfectfsbonus",
-    "rating": 5,
-    "minVklad": 55555,
-    "wage": 0,
-    "qtyFS": 0,
-    "bonusLink": "https://www.stopagingnow.com/"
+    "minVklad": 20,
+    "wage": 50,
+    "qtyFS": 250,
+    "bonusLink": "https://lto-profit.site/verlaine/?rht2oc6q&camp=campaign.name&adset=adset.name1&ban=ad.name1&placement=placement1&site_source_name=site_source_name1&s4=pixel_id1"
   }
 ]
