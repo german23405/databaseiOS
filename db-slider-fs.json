@@ -8,7 +8,7 @@
     "rating": 5,
     "minVklad": 20,
     "wage": 50,
-    "qtyFS": 250,
+    "qtyFS": 125,
     "bonusLink": "http://silaconen.com/YMgk"
   },
 
@@ -21,7 +21,7 @@
     "rating": 4,
     "minVklad": 20,
     "wage": 50,
-    "qtyFS": 250,
+    "qtyFS": 125,
     "bonusLink": "http://silaconen.com/YMgk"
   }
 ]
