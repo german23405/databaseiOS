@@ -1,1 +1,40 @@
+[
+  {
+    "id": 1,
+    "bonusTitle": "USB Charger Quick Charge for 0,01€",
+    "brandTitle": "Aliexpress",
+    "countries": "🇪🇺🇩🇪🇫🇷🇮🇹🇬🇧🇨🇭etc.",
+    "image": "perfectnodepbonus",
+    "rating": 5,
+    "minVklad": 55555,
+    "wage": 0,
+    "qtyFS": 0,
+    "bonusLink": "https://www.aliexpress.com/item/4000298379442.html"
+  },
 
+{
+    "id": 2,
+    "bonusTitle": "1Pair No tie Shoelaces for 1,55€ ",
+    "brandTitle": "Aliexpress",
+    "countries": "🇪🇺🇩🇪🇫🇷🇮🇹🇬🇧🇨🇭etc.",
+    "image": "perfectnodepbonus",
+    "rating": 4,
+    "minVklad": 55555,
+    "wage": 0,
+    "qtyFS": 0,
+    "bonusLink": "https://www.aliexpress.com/item/33012206693.html"
+  },
+
+{
+    "id": 3,
+    "bonusTitle": "Men Aluminum Polarized Sunglasses for 8,57€ ",
+    "brandTitle": "Aliexpress",
+    "countries": "🇪🇺🇩🇪🇫🇷🇮🇹🇬🇧🇨🇭etc.",
+    "image": "perfectnodepbonus",
+    "rating": 5,
+    "minVklad": 55555,
+    "wage": 0,
+    "qtyFS": 0,
+    "bonusLink": "https://www.aliexpress.com/item/32793775351.html"
+  }
+]
